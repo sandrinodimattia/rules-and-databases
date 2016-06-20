@@ -1,1 +1,3 @@
-login
+function (foo) {
+
+}
